@@ -9,7 +9,7 @@ export const TCanvas: FC = () => {
   return (
     <Canvas
       camera={{
-        position: [0, 3, 5],
+        position: [0, 1, 4],
         fov: 50,
         aspect: window.innerWidth / window.innerHeight,
         near: 0.1,
@@ -19,6 +19,7 @@ export const TCanvas: FC = () => {
       shadows>
       {/* options */}
       <color attach="background" args={['#000']} />
+      <fog attach="fog" args={['#000', 0, 20]} />
       <OrbitControls />
       {/* objects */}
       <Lights />
