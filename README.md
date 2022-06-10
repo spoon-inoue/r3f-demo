@@ -115,4 +115,13 @@ export const publicPath = (path: string) => {
 # 🐋Three.js（React Three Fiber）
 
 # 📄Documents
+- [Vite](https://ja.vitejs.dev/)
+- [React](https://ja.reactjs.org/)
 
+- [Three.js](https://threejs.org/)
+- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+- [React Three Drei](https://github.com/pmndrs/drei#readme)
+
+- [Emotion](https://emotion.sh/docs/introduction)
+- [GSAP](https://greensock.com/gsap/)
+- [gh-pages](https://github.com/tschaub/gh-pages)
