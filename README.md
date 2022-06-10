@@ -3,8 +3,13 @@ React Three Fiberを使ったデモアプリケーションです。
 
 https://spoon-inoue.github.io/r3f-demo/
 
+# 📏Index
+How to create
+- a
+- b
+
 # 🪶How to create
-Viteでプロジェクトを作成して、GitHub Pageに公開する手順です。
+Viteでプロジェクトを作成して、GitHub Pagesに公開する手順です。
 
 ## 🪶Template
 ViteのReactテンプレートを使用します。<br>
@@ -12,7 +17,7 @@ ViteのReactテンプレートを使用します。<br>
 ```
 npm create vite@latest <project name> -- --template react-ts
 ```
-`<project name>`：任意（GitHub作成するリポジトリ名にすると混乱がないと思います）
+`<project name>`：任意（GitHubに作成するリポジトリ名と同じにすると混乱がないと思います）
 
 ## 🪶Install
 ### Three.js関連
@@ -106,4 +111,6 @@ export const publicPath = (path: string) => {
 実装では、意図的に`emotion/css`を使用していません。ライブラリに依存させず、他のリポジトリでも使えるように汎用的なコンポーネントにしています。
 
 # 🐋Three.js（React Three Fiber）
+
+# 📄Documents
 
