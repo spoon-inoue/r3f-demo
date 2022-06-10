@@ -115,6 +115,17 @@ export const publicPath = (path: string) => {
 実装では、意図的に`emotion/css`を使用していません。ライブラリに依存させず、他のリポジトリでも使えるように汎用的なコンポーネントにしています。
 
 # 🐋Three.js（React Three Fiber）
+語ると長くなるので、簡単に書きます。
+
+## 🐋開発効率
+React Three Fiber（R3F）は、vanillaのThree.jsと比べて段違いで開発効率がいいです。<br>
+そして、Three.jsをラッパーしたライブラリなので、R3FでできることはThree.jsでもできます。つまり、試作はR3Fで行って、仕事上ではvanillaのThree.jsといった運用ができます。
+
+## 🐋エコパッケージ
+R3Fは、パッケージ分割されています。基本的な機能は、`@react-three/fiber`から提供されています。<br>
+Three.jsの組み込みクラスなどを便利に使えるようにしたパッケージが、`@react-three/drei`です。Dreiは、ほぼ必須になります。<br>
+他にも、物理シミュレーションをするための`@react-three/cannon`などがあります。<br>
+また、開発元の`Pmndrs`（ポイマンドラス）から、状態管理ライブラリである`Zustand`や`Valtio`が提供されています。
 
 # 📄Documents
 - [Vite](https://ja.vitejs.dev/)
