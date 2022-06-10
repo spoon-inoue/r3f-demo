@@ -7,7 +7,7 @@ https://spoon-inoue.github.io/r3f-demo/
 - [How to create](https://github.com/spoon-inoue/r3f-demo#how-to-create)
 - [Source Code](https://github.com/spoon-inoue/r3f-demo#source-code)
 - [Three.js（React Three Fiber）](https://github.com/spoon-inoue/r3f-demo#threejsreact-three-fiber)
-- [Document](https://github.com/spoon-inoue/r3f-demo#document)
+- [Documents](https://github.com/spoon-inoue/r3f-demo#documents)
 
 
 # 🪶How to create
