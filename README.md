@@ -3,6 +3,8 @@ React Three Fiberを使ったデモアプリケーションです。
 
 https://spoon-inoue.github.io/r3f-demo/
 
+![Vite-App](https://user-images.githubusercontent.com/105195761/173027703-43025da3-fc76-4805-a16e-5d3d4adb3de2.gif)
+
 # 📏Index
 - [How to create](https://github.com/spoon-inoue/r3f-demo#how-to-create)
 - [Source Code](https://github.com/spoon-inoue/r3f-demo#source-code)
