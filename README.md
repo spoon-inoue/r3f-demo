@@ -127,6 +127,9 @@ Three.jsの組み込みクラスなどを便利に使えるようにしたパッ
 他にも、物理シミュレーションをするための`@react-three/cannon`などがあります。<br>
 また、開発元の`Pmndrs`（ポイマンドラス）から、状態管理ライブラリである`Zustand`や`Valtio`が提供されています。
 
+## 🐋アニメーション
+GSAPが普通に使えます。
+
 # 📄Documents
 - [Vite](https://ja.vitejs.dev/)
 - [React](https://ja.reactjs.org/)
