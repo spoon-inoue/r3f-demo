@@ -47,9 +47,7 @@ npm i gsap
 npm i -D gh-pages
 ```
 
-## 🪶ファイルの書き替え
-設定を追加します。
-
+## 🪶設定の追加
 ### package.json
 ```.json
 "homepage": "https://<user name>.github.io/<project name>/",
